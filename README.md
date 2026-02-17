@@ -1,2 +1,20 @@
-# spacex-landing-page
-Simple landing page inspired by SpaceX. It features a futuristic hero section with the SpaceX logo, a bold headline inviting users to join space exploration, and a call-to-action button. Built with HTML and CSS, using the Orbitron Google Font for a modern space-themed design.
+# SpaceX Landing Page
+
+A simple futuristic landing page inspired by SpaceX.
+
+## Features
+- Hero section with SpaceX logo
+- Exploration headline
+- Call-to-action button
+- Orbitron Google Font integration
+- Clean and minimal design
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Preview
+Modern space-themed interface designed to inspire innovation and exploration.
+
+## Author
+Sarah Arezki
